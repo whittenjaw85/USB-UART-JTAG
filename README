@@ -1,0 +1,4 @@
+This schematic is an FTDI to UART/JTAG design that imitates the several
+desigin features available within Arduino and BusBlaster style designs.
+
+This is version one.
